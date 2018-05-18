@@ -1,6 +1,6 @@
 ---
 name: "# Warsong Realm BugTracker"
-about: Bugs related to Warsong Realm
+about: Bugs related to Warsong Realm.
 
 ---
 
